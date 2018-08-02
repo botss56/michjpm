@@ -9,7 +9,7 @@ const queue = new Map();
 const client = new Discord.Client();
 
 /*
-البكجآت
+
 npm install discord.js
 npm install ytdl-core
 npm install get-youtube-id
